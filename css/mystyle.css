@@ -10,20 +10,6 @@ body {
 	font-family: 'Gloria Hallelujah', cursive;
 }
 
-div {
-	width: 600px;
-	height: 200px;
-	margin:20px auto;
-	background: cyan;
-}
-
-#logo {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align:center;
-}
-
 H3 {
 	color:blue; 
 	margin-top: 50px;
